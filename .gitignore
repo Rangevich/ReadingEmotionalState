@@ -62,6 +62,7 @@ AvatarPhoto/*
 
 # Data
 Data/*
+*.png
 Content/Locations
 Content/Stuff/*
 Content/StarterContent/*
